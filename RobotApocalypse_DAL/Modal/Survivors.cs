@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ROBOT_apocalypse_DAL.Model
+{
+    public class Survivors
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string Gender { get; set; }
+        public string LastLocation { get; set; }
+
+        public string Resources { get; set; }
+        public string Status { get; set; }
+
+    }
+}

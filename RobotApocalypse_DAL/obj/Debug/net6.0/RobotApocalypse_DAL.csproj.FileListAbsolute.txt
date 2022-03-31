@@ -1,0 +1,14 @@
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.csproj.AssemblyReference.cache
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.AssemblyInfoInputs.cache
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.AssemblyInfo.cs
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\bin\Debug\net6.0\RobotApocalypse_DAL.deps.json
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\bin\Debug\net6.0\RobotApocalypse_DAL.runtimeconfig.json
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\bin\Debug\net6.0\RobotApocalypse_DAL.dll
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\bin\Debug\net6.0\ref\RobotApocalypse_DAL.dll
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\bin\Debug\net6.0\RobotApocalypse_DAL.pdb
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.dll
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\ref\RobotApocalypse_DAL.dll
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.pdb
+C:\Users\Vivinkumar\Documents\GitHub\.NET-VivinKumarR\RobotApocalypse\RobotApocalypse_DAL\obj\Debug\net6.0\RobotApocalypse_DAL.genruntimeconfig.cache
